@@ -1,6 +1,6 @@
 ## rss-feed
 
-This is where you include your WebPart documentation.
+Enter in your RSS feed url to create a nice widget displaying the feed posts.
 
 ### Building the code
 
